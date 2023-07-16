@@ -1,2 +1,2 @@
-# fastbeauty plugins (free version)
-## The WordPress FastBeauty ~~Paid~~ Free Theme Plugins, Video Tutorial: [Plugin1,](https://youtube.com/@VideoCovery)
+> ### The Fastbeauty Plugins (free & paid)
+> ### [Paid (..Soon),](https://youtube.com/@VideoCovery) Free theme plugin: "Plugin 1" (Files, [+ Video tutorial),](https://youtube.com/@VideoCovery)
