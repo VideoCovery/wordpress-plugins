@@ -1,1 +1,2 @@
-> ### `    |__`Free  plugins: ["Plugin 1" (Files,](https://github.com/VideoCovery/wordpress_free-plugin__plugin1) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Free  plugin: ["Plugin 1" (Files,](#) [+ Video tutorial)](https://youtube.com/@VideoCovery)
+> ### `    |__`Paid  plugin: ["Plugin 2 (Files,](#) [+ Video Docs)](https://youtube.com/@VideoCovery)
